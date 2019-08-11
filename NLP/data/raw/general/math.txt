@@ -1,0 +1,47 @@
+giải phương trình bậc 2
+giải hệ phương trình
+giải bài toán 2x+2=0
+tìm x
+tìm y
+tìm nghiệm của phương trình
+An có 12 viên bi, Lan có 7 viên bi. Hỏi cả hai bạn có tất cả bao nhiêu viên bi?
+Bạn muốn mua một cái váy giá 97.000 nhưng lại không có tiền nên bạn vay bố 50.000 và mẹ 50.000, tổng cộng có 100.000. Khi bạn mua váy bạn nhận lại 3.000 tiền thừa. Bạn đưa lại cho bố 1.000 và mẹ 1.000 còn bản thân cầm 1.000. Bây giờ bạn trả nợ cho mẹ 49.000 và bố 49.000. Cộng lại sẽ là: 49.000 + 49.000 = 98.000 tính thêm 1.000 bạn cầm là thành 99.000. Vậy câu hỏi đặt ra: 1.000 còn lại đã đi đâu mất?
+Tính khoảng cách từ
+Tính giá trị phương trình khi biết
+Tính đạo hàm của sin(x)
+Tính đạo hàm của cos(x)
+Tính đạo hàm của tan(x)
+Tính đạo hàm của cotan(x)
+Tính đạo hàm của x^2
+Tính đạo hàm của x^4 + 2x -3
+Tính đạo hàm của x^4 + x - 12
+Tính đạo hàm của x^4 + 5x -5
+Tính đạo hàm của x^2 + 4x -5
+Tính đạo hàm của x^4 - 6x - 14
+Tính đạo hàm của x^2 + 2x - 35
+Tính đạo hàm của x^6 - 2x - 15
+Tính vi phân của hàm sau
+Giải phương trình vi phân y''+ 2y - 4x = 0
+Giải phương trình vi phân y''- 2y + x = 0
+Giải phương trình vi phân y''+ 5y - 12x = 0
+Giải phương trình vi phân y'' - 2y - 5x = 0
+Giải phương trình vi phân y''+ 9y - 9 = 0
+Tính tích phân của biểu thức sau
+Giải hệ phương trình vi phân của biểu thức sau
+Tính tích phân bội của biểu thức sau
+Tích phân hai lớp của biểu thức sau
+đạo hàm 1 biến của phương trình sau
+đạo hàm bậc 2  của phương trình sau
+đạo hàm bậc nhất của phương trình sau
+Giải bài toán sau
+bài toán phương trình bậc nhất
+tính tổng
+tính hiệu
+Dạng toán về số và chữ số tổng hợp các bài Toán cơ bản và ... Có 3 cách chọn chữ số hàng nghìn của số thoả mãn điều kiện đề bài
+Công thức đạo hàm của hàm f(x) với x là biến số
+Đạo hàm của hàm hợp f(u) với u là hàm số
+Đạo hàm một số hàm phân thức hữu tỉ
+Các nguyên hàm mở rộng
+Nguyên hàm của những hàm số sơ cấp thường gặp
+Nguyên hàm phân thức hữu tỷ là một bài toán khá cơ bản
+Đưa biểu thức vào trong dấu vi phân

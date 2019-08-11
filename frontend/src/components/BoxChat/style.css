@@ -1,0 +1,11 @@
+.BoxChat .TopToolbarChatbot {
+    background: #2980b9;
+    color: aliceblue
+}
+
+.row {
+    margin: 0 -32px
+}
+.BoxChat img {
+    width: 100%
+}

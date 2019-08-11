@@ -1,0 +1,12 @@
+.Message {
+    max-width: 500px;
+    margin-top: 20px;
+}
+
+.Message .OneMessage .MessageContent {
+    padding: 5px 10px
+}
+
+.Message .OneMessage {
+    box-shadow: none
+}

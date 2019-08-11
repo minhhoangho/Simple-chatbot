@@ -1,0 +1,608 @@
+0,cân_bằng phương_trình h + o = h,chemistry
+1,kim_loại nhôm tác_dụng axit sunfuric h khí hidro h hợp_chất nhôm sunfat al,chemistry
+2,khí etan c_h cháy không_khí phản_ứng khí oxi thành h_o khí cacbon đioxit co lập pthh tỉ_lệ phân_tử c_h phân_tử khí oxi khí cacbon đioxit,chemistry
+3,sơ_đồ phản_ứng,chemistry
+4,al + cuso → alx y + cu,chemistry
+5,xác_định chỉ_số x y lập pthh tỉ_lệ số_nguyên_tử al lần_lượt chất phản_ứng,chemistry
+6,bài_toán chất dư đặc_điểm phương_trình phản_ứng hai chất có_mặt phương_trình lẽ chất suy chất viết hướng_dẫn bạn_đọc giải chi_tiết dạng,chemistry
+7,công_thức tỉ khối ta khí a nhẹ câu trả_lời câu khí nhẹ không_khí,chemistry
+8,xác_định cthh dựa pthh dạng bài_tập phổ_biến chương_trình_hóa học phổ_thông viết giúp bạn_đọc nắm vững phương_pháp giải trình_bày khoa_học,chemistry
+0,lê_duẩn,general_asking
+1,einstein,general_asking
+2,địa_lý,general_asking
+3,vật_lý,general_asking
+4,hình_tròn,general_asking
+5,hình_vuông,general_asking
+6,hồ_chí minh,general_asking
+7,hố_đen,general_asking
+8,giới_thiệu việt_nam,general_asking
+9,định_lý newton,general_asking
+10,định_luật,general_asking
+11,xác_định hệ_thống,general_asking
+12,phát_biểu định_luật,general_asking
+13,đảo sip châu châu âu,general_asking
+14,lục_địa phát_hiện,general_asking
+15,quốc_gia thế_giới diện_tích,general_asking
+16,thành_phố châu âu gọi thành_phố vĩnh_cửu,general_asking
+17,vĩ_tuyến chia bán_đảo đôi hai quốc_gia hình_thành,general_asking
+18,đảo korsika cooc,general_asking
+19,cảng đông_á,general_asking
+20,hồ nội_địa sâu thế_giới,general_asking
+21,đảo st helenanằm,general_asking
+22,người_ta gọi rừng_vành_đai siberi,general_asking
+23,thành_phố venedigcủa đảo,general_asking
+24,công_nguyên thảm_hoạ núi_lửa động_đất phá_huỷ hai thành_phố la mã hai thành_phố,general_asking
+25,người_ta gọi_dân da đỏ indianer,general_asking
+26,thành_phố köln thời la mã,general_asking
+27,nước_lớn diện_tích,general_asking
+28,babylon nằm,general_asking
+29,chim cánh_cụt pinguin sống,general_asking
+30,brazilnói tiếng,general_asking
+31,nằm pháp tây_ban nha,general_asking
+32,sông châu âu,general_asking
+33,thành_phố istabul,general_asking
+34,thành_lập thành_phố newyork mỹ,general_asking
+35,đỉnh núi dãy an pơ,general_asking
+36,đỉnh núi thế_giới,general_asking
+37,kinh_tuyến gốc kinh_tuyến đi greenwich địa_danh nằm,general_asking
+38,thủ_đô nhật,general_asking
+39,biển mặn thế_giới,general_asking
+40,châu_lục thế_giới,general_asking
+41,tỷ_lệ đất_liền chiếm phần_trăm bề_mặt trái_đất,general_asking
+42,sông thế_giới,general_asking
+43,sa_mạc thế_giới,general_asking
+44,bán_đảo thế_giới,general_asking
+45,đường xích_đạo,general_asking
+46,băng_đảo diện_tích,general_asking
+47,thành_phố nằm hai lục_địa,general_asking
+48,sông thế_giới,general_asking
+49,sri lanka,general_asking
+50,mũi cực nam argentina,general_asking
+51,sa_mạc victorianằm,general_asking
+52,washington nằm bở sông,general_asking
+53,quảng_trường wenzelnằm thành_phố,general_asking
+54,thành_phố cung_điện mùa đông,general_asking
+55,capitolcó thành_phố,general_asking
+56,thành_phố úc,general_asking
+57,sông themse đổ biển,general_asking
+58,diện_tích bề_mặt trái_đất,general_asking
+59,hồ nước_ngọt thế_giới,general_asking
+60,rặng núi nam mỹ,general_asking
+61,sông châu,general_asking
+62,sông bắc mỹ,general_asking
+63,sa_mạc châu,general_asking
+64,đỉnh núi nổi_tiếng hy lạp,general_asking
+65,lá cờ olympic vòng_tròn,general_asking
+66,vạn lý trường_thành vạn dặm,general_asking
+67,thế_giới dân_tộc,general_asking
+68,chiến_tranh_lạnh,general_asking
+69,vĩ_tuyến đường phân_giới bắc triều_tiên hàn_quốc,general_asking
+70,israel thái,general_asking
+71,bọn quốc_xã tiêu_diệt dân_tộc thái,general_asking
+72,tổng_thống mỹ nhân_dân mỹ bầu,general_asking
+73,quân_đội mỹ quân_hàm nguyên_soái,general_asking
+74,hitler hình chữ vạn biểu_tượng đảng quốc_xã,general_asking
+75,hoàng_đế nga gọi sa hoàng,general_asking
+76,coi chim bồ_câu biểu_tượng hoà_bình,general_asking
+77,trận oateclo tượng_trưng thất_bại cuộc_đời con_người,general_asking
+78,thế_giới tiếng,general_asking
+79,thế_giới bảy kỳ_quan,general_asking
+80,beethoven tôn_vinh nhạc_thánh,general_asking
+81,đường thông_thương cổ_đại gọi đường tơ_lụa,general_asking
+82,vạn lý trường_thành bảy kỳ_quan thế_giới,general_asking
+0,giải phương_trình bậc,math
+1,giải hệ phương_trình,math
+2,giải bài_toán x + =,math
+3,x,math
+4,y,math
+5,nghiệm phương_trình,math
+6,an viên bi lan viên bi hai viên bi,math
+7,mua váy giá tiền vay bố mẹ tổng_cộng mua váy tiền thừa bố mẹ cầm nợ mẹ bố cộng + = cầm thành câu đi,math
+8,phương_trình,math
+9,đạo_hàm sin x,math
+10,đạo_hàm cos x,math
+11,đạo_hàm tan x,math
+12,đạo_hàm cotan x,math
+13,đạo_hàm x,math
+14,đạo_hàm x + x,math
+15,đạo_hàm x + x,math
+16,đạo_hàm x + x,math
+17,đạo_hàm x + x,math
+18,đạo_hàm x x,math
+19,đạo_hàm x + x,math
+20,đạo_hàm x x,math
+21,vi_phân hàm,math
+22,giải phương_trình vi_phân y + y x =,math
+23,giải phương_trình vi_phân y y + x =,math
+24,giải phương_trình vi_phân y + y x =,math
+25,giải phương_trình vi_phân y y x =,math
+26,giải phương_trình vi_phân y + y =,math
+27,tích_phân biểu_thức,math
+28,giải hệ phương_trình vi_phân biểu_thức,math
+29,tích_phân bội biểu_thức,math
+30,tích_phân hai lớp biểu_thức,math
+31,đạo_hàm biến phương_trình,math
+32,đạo_hàm bậc phương_trình,math
+33,đạo_hàm bậc phương_trình,math
+34,giải bài_toán,math
+35,bài_toán phương_trình bậc,math
+36,tổng,math
+37,hiệu,math
+38,dạng toán chữ_số tổng_hợp bài_toán cơ_bản chữ_số hàng nghìn thoả_mãn đề_bài,math
+39,công_thức đạo_hàm hàm f x x biến_số,math
+40,đạo_hàm hàm hợp f_u u hàm_số,math
+41,đạo_hàm hàm phân_thức_hữu_tỉ,math
+42,nguyên hàm mở_rộng,math
+43,nguyên hàm hàm_số sơ_cấp,math
+44,nguyên hàm phân_thức_hữu_tỷ bài_toán cơ_bản,math
+45,biểu_thức dấu vi_phân,math
+0,tạm_biệt hẹn,goodbye
+1,tạm_biệt,goodbye
+2,goodbye see you again,goodbye
+3,bye hẹn dịp,goodbye
+4,chào hẹn,goodbye
+5,bai hi_vọng,goodbye
+6,bái bai tuần vui_vẻ,goodbye
+7,hẹn nha,goodbye
+8,chào,goodbye
+9,goodbye see you later,goodbye
+10,hẹn,goodbye
+11,vĩnh_biệt bái bai bot,goodbye
+12,bye,goodbye
+13,chào tạm_biệt,goodbye
+14,chào tạm_biệt,goodbye
+15,hẹn,goodbye
+0,chào,hello
+1,hello,hello
+2,hế lô,hello
+3,chào,hello
+4,hey bot giúp,hello
+5,chào giúp tui,hello
+6,hello bot,hello
+7,chào,hello
+8,chào bot,hello
+9,chào bot tốt_lành,hello
+10,chào,hello
+11,chào chiều,hello
+12,chào tối,hello
+0,giới_thiệu đi bot,introduction
+1,giới_thiệu,introduction
+2,bot vây,introduction
+3,khả_năng mày,introduction
+4,who are you,introduction
+0,thanks,thanks
+1,thank you,thanks
+2,cảm_ơn nha,thanks
+3,cảm_ơn,thanks
+4,cảm_ơn nhiểu,thanks
+5,cảm_ơn,thanks
+6,cảm_ơn,thanks
+7,chân_thành cảm_ơn,thanks
+8,cảm_ơn,thanks
+0,thời_tiết hôm_nay,ask_weather
+1,thời_tiết,ask_weather
+2,hôm_nay nắng mưa,ask_weather
+3,trời hôm_nay,ask_weather
+4,hôm_nay trời đẹp,ask_weather
+5,nóng liệu mưa,ask_weather
+6,nóng ghê ko mưa,ask_weather
+7,trời mưa,ask_weather
+8,mưa,ask_weather
+9,nắng,ask_weather
+10,trời,ask_weather
+11,trời vẻ xấu mây đen,ask_weather
+12,dự_báo thời_tiết hôm_nay đi bot,ask_weather
+13,dự_báo hôm_nay,ask_weather
+14,thời_tiết hôm_nay mưa,ask_weather
+15,gió lạnh nắng_vậy,ask_weather
+16,mưa nóng,ask_weather
+0,cân_bằng phương_trình h + o = h,chemistry
+1,kim_loại nhôm tác_dụng axit sunfuric h khí hidro h hợp_chất nhôm sunfat al,chemistry
+2,khí etan c_h cháy không_khí phản_ứng khí oxi thành h_o khí cacbon đioxit co lập pthh tỉ_lệ phân_tử c_h phân_tử khí oxi khí cacbon đioxit,chemistry
+3,sơ_đồ phản_ứng,chemistry
+4,al + cuso → alx y + cu,chemistry
+5,xác_định chỉ_số x y lập pthh tỉ_lệ số_nguyên_tử al lần_lượt chất phản_ứng,chemistry
+6,bài_toán chất dư đặc_điểm phương_trình phản_ứng hai chất có_mặt phương_trình lẽ chất suy chất viết hướng_dẫn bạn_đọc giải chi_tiết dạng,chemistry
+7,công_thức tỉ khối ta khí a nhẹ câu trả_lời câu khí nhẹ không_khí,chemistry
+8,xác_định cthh dựa pthh dạng bài_tập phổ_biến chương_trình_hóa học phổ_thông viết giúp bạn_đọc nắm vững phương_pháp giải trình_bày khoa_học,chemistry
+0,lê_duẩn,general_asking
+1,einstein,general_asking
+2,địa_lý,general_asking
+3,vật_lý,general_asking
+4,hình_tròn,general_asking
+5,hình_vuông,general_asking
+6,hồ_chí minh,general_asking
+7,hố_đen,general_asking
+8,giới_thiệu việt_nam,general_asking
+9,định_lý newton,general_asking
+10,định_luật,general_asking
+11,xác_định hệ_thống,general_asking
+12,phát_biểu định_luật,general_asking
+13,đảo sip châu châu âu,general_asking
+14,lục_địa phát_hiện,general_asking
+15,quốc_gia thế_giới diện_tích,general_asking
+16,thành_phố châu âu gọi thành_phố vĩnh_cửu,general_asking
+17,vĩ_tuyến chia bán_đảo đôi hai quốc_gia hình_thành,general_asking
+18,đảo korsika cooc,general_asking
+19,cảng đông_á,general_asking
+20,hồ nội_địa sâu thế_giới,general_asking
+21,đảo st helenanằm,general_asking
+22,người_ta gọi rừng_vành_đai siberi,general_asking
+23,thành_phố venedigcủa đảo,general_asking
+24,công_nguyên thảm_hoạ núi_lửa động_đất phá_huỷ hai thành_phố la mã hai thành_phố,general_asking
+25,người_ta gọi_dân da đỏ indianer,general_asking
+26,thành_phố köln thời la mã,general_asking
+27,nước_lớn diện_tích,general_asking
+28,babylon nằm,general_asking
+29,chim cánh_cụt pinguin sống,general_asking
+30,brazilnói tiếng,general_asking
+31,nằm pháp tây_ban nha,general_asking
+32,sông châu âu,general_asking
+33,thành_phố istabul,general_asking
+34,thành_lập thành_phố newyork mỹ,general_asking
+35,đỉnh núi dãy an pơ,general_asking
+36,đỉnh núi thế_giới,general_asking
+37,kinh_tuyến gốc kinh_tuyến đi greenwich địa_danh nằm,general_asking
+38,thủ_đô nhật,general_asking
+39,biển mặn thế_giới,general_asking
+40,châu_lục thế_giới,general_asking
+41,tỷ_lệ đất_liền chiếm phần_trăm bề_mặt trái_đất,general_asking
+42,sông thế_giới,general_asking
+43,sa_mạc thế_giới,general_asking
+44,bán_đảo thế_giới,general_asking
+45,đường xích_đạo,general_asking
+46,băng_đảo diện_tích,general_asking
+47,thành_phố nằm hai lục_địa,general_asking
+48,sông thế_giới,general_asking
+49,sri lanka,general_asking
+50,mũi cực nam argentina,general_asking
+51,sa_mạc victorianằm,general_asking
+52,washington nằm bở sông,general_asking
+53,quảng_trường wenzelnằm thành_phố,general_asking
+54,thành_phố cung_điện mùa đông,general_asking
+55,capitolcó thành_phố,general_asking
+56,thành_phố úc,general_asking
+57,sông themse đổ biển,general_asking
+58,diện_tích bề_mặt trái_đất,general_asking
+59,hồ nước_ngọt thế_giới,general_asking
+60,rặng núi nam mỹ,general_asking
+61,sông châu,general_asking
+62,sông bắc mỹ,general_asking
+63,sa_mạc châu,general_asking
+64,đỉnh núi nổi_tiếng hy lạp,general_asking
+65,lá cờ olympic vòng_tròn,general_asking
+66,vạn lý trường_thành vạn dặm,general_asking
+67,thế_giới dân_tộc,general_asking
+68,chiến_tranh_lạnh,general_asking
+69,vĩ_tuyến đường phân_giới bắc triều_tiên hàn_quốc,general_asking
+70,israel thái,general_asking
+71,bọn quốc_xã tiêu_diệt dân_tộc thái,general_asking
+72,tổng_thống mỹ nhân_dân mỹ bầu,general_asking
+73,quân_đội mỹ quân_hàm nguyên_soái,general_asking
+74,hitler hình chữ vạn biểu_tượng đảng quốc_xã,general_asking
+75,hoàng_đế nga gọi sa hoàng,general_asking
+76,coi chim bồ_câu biểu_tượng hoà_bình,general_asking
+77,trận oateclo tượng_trưng thất_bại cuộc_đời con_người,general_asking
+78,thế_giới tiếng,general_asking
+79,thế_giới bảy kỳ_quan,general_asking
+80,beethoven tôn_vinh nhạc_thánh,general_asking
+81,đường thông_thương cổ_đại gọi đường tơ_lụa,general_asking
+82,vạn lý trường_thành bảy kỳ_quan thế_giới,general_asking
+0,giải phương_trình bậc,math
+1,giải hệ phương_trình,math
+2,giải bài_toán x + =,math
+3,x,math
+4,y,math
+5,nghiệm phương_trình,math
+6,an viên bi lan viên bi hai viên bi,math
+7,mua váy giá tiền vay bố mẹ tổng_cộng mua váy tiền thừa bố mẹ cầm nợ mẹ bố cộng + = cầm thành câu đi,math
+8,phương_trình,math
+9,đạo_hàm sin x,math
+10,đạo_hàm cos x,math
+11,đạo_hàm tan x,math
+12,đạo_hàm cotan x,math
+13,đạo_hàm x,math
+14,đạo_hàm x + x,math
+15,đạo_hàm x + x,math
+16,đạo_hàm x + x,math
+17,đạo_hàm x + x,math
+18,đạo_hàm x x,math
+19,đạo_hàm x + x,math
+20,đạo_hàm x x,math
+21,vi_phân hàm,math
+22,giải phương_trình vi_phân y + y x =,math
+23,giải phương_trình vi_phân y y + x =,math
+24,giải phương_trình vi_phân y + y x =,math
+25,giải phương_trình vi_phân y y x =,math
+26,giải phương_trình vi_phân y + y =,math
+27,tích_phân biểu_thức,math
+28,giải hệ phương_trình vi_phân biểu_thức,math
+29,tích_phân bội biểu_thức,math
+30,tích_phân hai lớp biểu_thức,math
+31,đạo_hàm biến phương_trình,math
+32,đạo_hàm bậc phương_trình,math
+33,đạo_hàm bậc phương_trình,math
+34,giải bài_toán,math
+35,bài_toán phương_trình bậc,math
+36,tổng,math
+37,hiệu,math
+38,dạng toán chữ_số tổng_hợp bài_toán cơ_bản chữ_số hàng nghìn thoả_mãn đề_bài,math
+39,công_thức đạo_hàm hàm f x x biến_số,math
+40,đạo_hàm hàm hợp f_u u hàm_số,math
+41,đạo_hàm hàm phân_thức_hữu_tỉ,math
+42,nguyên hàm mở_rộng,math
+43,nguyên hàm hàm_số sơ_cấp,math
+44,nguyên hàm phân_thức_hữu_tỷ bài_toán cơ_bản,math
+45,biểu_thức dấu vi_phân,math
+0,tạm_biệt hẹn,goodbye
+1,tạm_biệt,goodbye
+2,goodbye see you again,goodbye
+3,bye hẹn dịp,goodbye
+4,chào hẹn,goodbye
+5,bai hi_vọng,goodbye
+6,bái bai tuần vui_vẻ,goodbye
+7,hẹn nha,goodbye
+8,chào,goodbye
+9,goodbye see you later,goodbye
+10,hẹn,goodbye
+11,vĩnh_biệt bái bai bot,goodbye
+12,bye,goodbye
+13,chào tạm_biệt,goodbye
+14,chào tạm_biệt,goodbye
+15,hẹn,goodbye
+0,chào,hello
+1,hello,hello
+2,hế lô,hello
+3,chào,hello
+4,hey bot giúp,hello
+5,chào giúp tui,hello
+6,hello bot,hello
+7,chào,hello
+8,chào bot,hello
+9,chào bot tốt_lành,hello
+10,chào,hello
+11,chào chiều,hello
+12,chào tối,hello
+0,giới_thiệu đi bot,introduction
+1,giới_thiệu,introduction
+2,bot vây,introduction
+3,khả_năng mày,introduction
+4,khả_năng,introduction
+5,khả_năng,introduction
+6,giới_thiệu đi,introduction
+7,giới_thiệu,introduction
+8,khả_năng,introduction
+9,kỹ_năng,introduction
+10,bot khả_năng,introduction
+11,who are you,introduction
+0,thanks,thanks
+1,thank you,thanks
+2,cảm_ơn nha,thanks
+3,cảm_ơn,thanks
+4,cảm_ơn nhiểu,thanks
+5,cảm_ơn,thanks
+6,cảm_ơn,thanks
+7,chân_thành cảm_ơn,thanks
+8,cảm_ơn,thanks
+0,thời_tiết hôm_nay,ask_weather
+1,thời_tiết,ask_weather
+2,hôm_nay nắng mưa,ask_weather
+3,trời hôm_nay,ask_weather
+4,hôm_nay trời đẹp,ask_weather
+5,nóng liệu mưa,ask_weather
+6,nóng ghê ko mưa,ask_weather
+7,trời mưa,ask_weather
+8,mưa,ask_weather
+9,nắng,ask_weather
+10,trời,ask_weather
+11,trời vẻ xấu mây đen,ask_weather
+12,dự_báo thời_tiết hôm_nay đi bot,ask_weather
+13,dự_báo hôm_nay,ask_weather
+14,thời_tiết hôm_nay mưa,ask_weather
+15,gió lạnh nắng_vậy,ask_weather
+16,mưa nóng,ask_weather
+0,cân_bằng phương_trình h + o = h,chemistry
+1,kim_loại nhôm tác_dụng axit sunfuric h khí hidro h hợp_chất nhôm sunfat al,chemistry
+2,khí etan c_h cháy không_khí phản_ứng khí oxi thành h_o khí cacbon đioxit co lập pthh tỉ_lệ phân_tử c_h phân_tử khí oxi khí cacbon đioxit,chemistry
+3,sơ_đồ phản_ứng,chemistry
+4,al + cuso → alx y + cu,chemistry
+5,xác_định chỉ_số x y lập pthh tỉ_lệ số_nguyên_tử al lần_lượt chất phản_ứng,chemistry
+6,bài_toán chất dư đặc_điểm phương_trình phản_ứng hai chất có_mặt phương_trình lẽ chất suy chất viết hướng_dẫn bạn_đọc giải chi_tiết dạng,chemistry
+7,công_thức tỉ khối ta khí a nhẹ câu trả_lời câu khí nhẹ không_khí,chemistry
+8,xác_định cthh dựa pthh dạng bài_tập phổ_biến chương_trình_hóa học phổ_thông viết giúp bạn_đọc nắm vững phương_pháp giải trình_bày khoa_học,chemistry
+0,lê_duẩn,general_asking
+1,einstein,general_asking
+2,địa_lý,general_asking
+3,vật_lý,general_asking
+4,hình_tròn,general_asking
+5,hình_vuông,general_asking
+6,hồ_chí minh,general_asking
+7,hố_đen,general_asking
+8,giới_thiệu việt_nam,general_asking
+9,định_lý newton,general_asking
+10,định_luật,general_asking
+11,xác_định hệ_thống,general_asking
+12,phát_biểu định_luật,general_asking
+13,đảo sip châu châu âu,general_asking
+14,lục_địa phát_hiện,general_asking
+15,quốc_gia thế_giới diện_tích,general_asking
+16,thành_phố châu âu gọi thành_phố vĩnh_cửu,general_asking
+17,vĩ_tuyến chia bán_đảo đôi hai quốc_gia hình_thành,general_asking
+18,đảo korsika cooc,general_asking
+19,cảng đông_á,general_asking
+20,hồ nội_địa sâu thế_giới,general_asking
+21,đảo st helenanằm,general_asking
+22,người_ta gọi rừng_vành_đai siberi,general_asking
+23,thành_phố venedigcủa đảo,general_asking
+24,công_nguyên thảm_hoạ núi_lửa động_đất phá_huỷ hai thành_phố la mã hai thành_phố,general_asking
+25,người_ta gọi_dân da đỏ indianer,general_asking
+26,thành_phố köln thời la mã,general_asking
+27,nước_lớn diện_tích,general_asking
+28,babylon nằm,general_asking
+29,chim cánh_cụt pinguin sống,general_asking
+30,brazilnói tiếng,general_asking
+31,nằm pháp tây_ban nha,general_asking
+32,sông châu âu,general_asking
+33,thành_phố istabul,general_asking
+34,thành_lập thành_phố newyork mỹ,general_asking
+35,đỉnh núi dãy an pơ,general_asking
+36,đỉnh núi thế_giới,general_asking
+37,kinh_tuyến gốc kinh_tuyến đi greenwich địa_danh nằm,general_asking
+38,thủ_đô nhật,general_asking
+39,biển mặn thế_giới,general_asking
+40,châu_lục thế_giới,general_asking
+41,tỷ_lệ đất_liền chiếm phần_trăm bề_mặt trái_đất,general_asking
+42,sông thế_giới,general_asking
+43,sa_mạc thế_giới,general_asking
+44,bán_đảo thế_giới,general_asking
+45,đường xích_đạo,general_asking
+46,băng_đảo diện_tích,general_asking
+47,thành_phố nằm hai lục_địa,general_asking
+48,sông thế_giới,general_asking
+49,sri lanka,general_asking
+50,mũi cực nam argentina,general_asking
+51,sa_mạc victorianằm,general_asking
+52,washington nằm bở sông,general_asking
+53,quảng_trường wenzelnằm thành_phố,general_asking
+54,thành_phố cung_điện mùa đông,general_asking
+55,capitolcó thành_phố,general_asking
+56,thành_phố úc,general_asking
+57,sông themse đổ biển,general_asking
+58,diện_tích bề_mặt trái_đất,general_asking
+59,hồ nước_ngọt thế_giới,general_asking
+60,rặng núi nam mỹ,general_asking
+61,sông châu,general_asking
+62,sông bắc mỹ,general_asking
+63,sa_mạc châu,general_asking
+64,đỉnh núi nổi_tiếng hy lạp,general_asking
+65,lá cờ olympic vòng_tròn,general_asking
+66,vạn lý trường_thành vạn dặm,general_asking
+67,thế_giới dân_tộc,general_asking
+68,chiến_tranh_lạnh,general_asking
+69,vĩ_tuyến đường phân_giới bắc triều_tiên hàn_quốc,general_asking
+70,israel thái,general_asking
+71,bọn quốc_xã tiêu_diệt dân_tộc thái,general_asking
+72,tổng_thống mỹ nhân_dân mỹ bầu,general_asking
+73,quân_đội mỹ quân_hàm nguyên_soái,general_asking
+74,hitler hình chữ vạn biểu_tượng đảng quốc_xã,general_asking
+75,hoàng_đế nga gọi sa hoàng,general_asking
+76,coi chim bồ_câu biểu_tượng hoà_bình,general_asking
+77,trận oateclo tượng_trưng thất_bại cuộc_đời con_người,general_asking
+78,thế_giới tiếng,general_asking
+79,thế_giới bảy kỳ_quan,general_asking
+80,beethoven tôn_vinh nhạc_thánh,general_asking
+81,đường thông_thương cổ_đại gọi đường tơ_lụa,general_asking
+82,vạn lý trường_thành bảy kỳ_quan thế_giới,general_asking
+0,giải phương_trình bậc,math
+1,giải hệ phương_trình,math
+2,giải bài_toán x + =,math
+3,x,math
+4,y,math
+5,nghiệm phương_trình,math
+6,an viên bi lan viên bi hai viên bi,math
+7,mua váy giá tiền vay bố mẹ tổng_cộng mua váy tiền thừa bố mẹ cầm nợ mẹ bố cộng + = cầm thành câu đi,math
+8,phương_trình,math
+9,đạo_hàm sin x,math
+10,đạo_hàm cos x,math
+11,đạo_hàm tan x,math
+12,đạo_hàm cotan x,math
+13,đạo_hàm x,math
+14,đạo_hàm x + x,math
+15,đạo_hàm x + x,math
+16,đạo_hàm x + x,math
+17,đạo_hàm x + x,math
+18,đạo_hàm x x,math
+19,đạo_hàm x + x,math
+20,đạo_hàm x x,math
+21,vi_phân hàm,math
+22,giải phương_trình vi_phân y + y x =,math
+23,giải phương_trình vi_phân y y + x =,math
+24,giải phương_trình vi_phân y + y x =,math
+25,giải phương_trình vi_phân y y x =,math
+26,giải phương_trình vi_phân y + y =,math
+27,tích_phân biểu_thức,math
+28,giải hệ phương_trình vi_phân biểu_thức,math
+29,tích_phân bội biểu_thức,math
+30,tích_phân hai lớp biểu_thức,math
+31,đạo_hàm biến phương_trình,math
+32,đạo_hàm bậc phương_trình,math
+33,đạo_hàm bậc phương_trình,math
+34,giải bài_toán,math
+35,bài_toán phương_trình bậc,math
+36,tổng,math
+37,hiệu,math
+38,dạng toán chữ_số tổng_hợp bài_toán cơ_bản chữ_số hàng nghìn thoả_mãn đề_bài,math
+39,công_thức đạo_hàm hàm f x x biến_số,math
+40,đạo_hàm hàm hợp f_u u hàm_số,math
+41,đạo_hàm hàm phân_thức_hữu_tỉ,math
+42,nguyên hàm mở_rộng,math
+43,nguyên hàm hàm_số sơ_cấp,math
+44,nguyên hàm phân_thức_hữu_tỷ bài_toán cơ_bản,math
+45,biểu_thức dấu vi_phân,math
+0,tạm_biệt hẹn,goodbye
+1,tạm_biệt,goodbye
+2,goodbye see you again,goodbye
+3,bye hẹn dịp,goodbye
+4,chào hẹn,goodbye
+5,bai hi_vọng,goodbye
+6,bái bai tuần vui_vẻ,goodbye
+7,hẹn nha,goodbye
+8,chào,goodbye
+9,goodbye see you later,goodbye
+10,hẹn,goodbye
+11,vĩnh_biệt bái bai bot,goodbye
+12,bye,goodbye
+13,chào tạm_biệt,goodbye
+14,chào tạm_biệt,goodbye
+15,hẹn,goodbye
+0,chào,hello
+1,hello,hello
+2,hế lô,hello
+3,chào,hello
+4,hey bot giúp,hello
+5,chào giúp tui,hello
+6,hello bot,hello
+7,chào,hello
+8,chào bot,hello
+9,chào bot tốt_lành,hello
+10,chào,hello
+11,chào chiều,hello
+12,chào tối,hello
+0,giới_thiệu đi bot,introduction
+1,giới_thiệu,introduction
+2,bot vây,introduction
+3,khả_năng mày,introduction
+4,khả_năng,introduction
+5,khả_năng,introduction
+6,giới_thiệu đi,introduction
+7,giới_thiệu,introduction
+8,khả_năng,introduction
+9,kỹ_năng,introduction
+10,bot khả_năng,introduction
+11,who are you,introduction
+0,thanks,thanks
+1,thank you,thanks
+2,cảm_ơn nha,thanks
+3,cảm_ơn,thanks
+4,cảm_ơn nhiểu,thanks
+5,cảm_ơn,thanks
+6,cảm_ơn,thanks
+7,chân_thành cảm_ơn,thanks
+8,cảm_ơn,thanks
+0,thời_tiết hôm_nay,ask_weather
+1,thời_tiết,ask_weather
+2,hôm_nay nắng mưa,ask_weather
+3,trời hôm_nay,ask_weather
+4,hôm_nay trời đẹp,ask_weather
+5,nóng liệu mưa,ask_weather
+6,nóng ghê ko mưa,ask_weather
+7,trời mưa,ask_weather
+8,mưa,ask_weather
+9,nắng,ask_weather
+10,trời,ask_weather
+11,trời vẻ xấu mây đen,ask_weather
+12,dự_báo thời_tiết hôm_nay đi bot,ask_weather
+13,dự_báo hôm_nay,ask_weather
+14,thời_tiết hôm_nay mưa,ask_weather
+15,gió lạnh nắng_vậy,ask_weather
+16,mưa nóng,ask_weather

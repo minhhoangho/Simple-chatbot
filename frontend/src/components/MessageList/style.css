@@ -1,0 +1,12 @@
+.OneMessage {
+    border-radius: 20px!important;
+}
+
+.MessageList {
+    margin-top: 5px;
+    display: flex;
+    flex-direction: column;
+    padding:10px 10px 35px;
+    max-height:450px;
+    overflow-y: scroll
+}
